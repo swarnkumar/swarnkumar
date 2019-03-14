@@ -1,0 +1,122 @@
+body{
+    margin: 0px;
+}
+aside{
+    background-color:forestgreen;
+    float:left;
+    width: 300px;
+    text-align: center;
+    height:100%;
+    top: 0;
+    position: fixed;
+    box-shadow: 0 0 10px black;
+    text-transform: uppercase;
+}
+aside a{
+    display: block;
+    text-decoration: none;
+    color:white;
+    padding: 16px 25px;
+    font-size: 20px;
+}
+aside a:hover{
+    color:red;
+}
+aside img{
+    width: 120px;
+    height: 120px;
+    margin: 60px;
+    border-radius:50%;
+    border: 10px solid darkgreen;
+}
+section{
+    margin-left:315px;
+}
+#about-section h1{
+    font-size:60px
+}
+h1 span{
+    font-family: "Arial Rounded MT Bold", sans-serif;
+}
+ article h2{
+    font-family: "Boggie", sans-serif;
+     color: red;
+     font-size:30px;
+}
+#fname{
+    color: green;
+}
+#lname{
+    color: black;
+}
+.main-heading {
+    color:black;
+    font-size: 45px;
+    font-family: "Californian FB", sans-serif;
+    text-shadow: 0 0 10px red;
+}
+.exp-article{
+    border: 2px solid red;
+    width:250px;
+    height:350px;
+    display: inline-block;
+    margin:10px;
+    padding:10px;
+    border-radius: 10px;
+    text-align: center;
+    font-family:"Arial Rounded MT Bold", sans-serif;
+    box-shadow: white;
+}
+.edu-article{
+    border: 2px solid red;
+    margin: 10px;
+    padding: 5px;
+    border-radius:10px;
+}
+.skills-article{
+    border: 2px solid red;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.cert-article{
+    border: 2px solid red;
+    width:200px;
+    height:300px;
+    display: inline-block;
+    margin:10px;
+    text-align: center;
+    font-family:"Arial Rounded MT Bold", sans-serif;
+    border-radius: 10px;
+    padding:10px;
+    margin-bottom:35px;
+    margin-top: 20px;
+}
+article img{
+    width: 120px;
+    height:120px;
+    margin-top: -50px;
+}
+.exp-article-button{
+    border: 3px solid red;
+    background: green;
+    height: 10%;
+    width: 50%;
+    border-radius: 20px;
+    border-top-left-radius:5px;
+    border-bottom-right-radius:5px;
+}
+i:hover{
+    color: green;
+}
+div{
+    margin: 10px;
+}
+article{
+    background:whitesmoke;
+}
+i{
+    margin: 10px;
+}
+
+
